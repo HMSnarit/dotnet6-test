@@ -21,8 +21,9 @@ public class WeatherForecastController : ControllerBase
     [HttpGet(Name = "GetWeatherForecast")]
     public IEnumerable<WeatherForecast> Get()
     {
-         string y = 1;
+   
         string x = "1";
+         string y = "1";
         if(x == "1"){
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
         {
