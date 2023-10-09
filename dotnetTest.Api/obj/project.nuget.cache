@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qk0LNpkVK8Y+Ct2acmjYJ8ISuTcX+kMfZElhTjGtgoBznY1zqt6qWa1W/Ahx1m5TK9TtCt43mOlR+++Gw8TTkQ==",
+  "success": true,
+  "projectFilePath": "D:\\05-Personal File\\Test\\dotnetTest.Api\\dotnetTest.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\narit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\narit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\narit\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\narit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\narit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\narit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
